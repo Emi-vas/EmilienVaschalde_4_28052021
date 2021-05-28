@@ -1058,5 +1058,21 @@ h4 {
     padding: 15px 30px;
     color: #F3976C!important;
     border: #F3976C solid 1px;
+}
 
+.nav_here {
+    border-bottom: solid 2px #F3976C;
+}
+
+.nav_hover:hover {
+    color: #F3976C !important;
+}
+
+.nav_opti {
+    font-size: 1.2em;
+    transition: all 0.2s;
+}
+
+.footer_logo {
+    font-size: 2em;
 }
