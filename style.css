@@ -1047,3 +1047,8 @@ h4 {
 .font-plus {
     font-size: 1em;
 }
+
+.footer-center {
+    display: flex;
+    justify-content: space-around;
+}
