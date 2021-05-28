@@ -1045,20 +1045,15 @@ h4 {
 /*---- ma pomme----*/
 
 .font-plus {
-    font-size: 1em;
-}
-
-.footer-center {
-    display: flex;
-    justify-content: space-around;
+    font-size: 1.1em;
 }
 
 .flex-center {
-    display: flex;
+    display: flex;  /*pour pas que le bloc prenne tout l'espace*/
     justify-content: center;
 }
 .txt_bloc5 {
-    position: relative;
+    position: relative; /*pour repasser sur le fond*/
     background: #333333bd;
     padding: 15px 30px;
     color: #F3976C!important;
