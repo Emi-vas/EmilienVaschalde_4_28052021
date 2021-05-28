@@ -1055,12 +1055,12 @@ h4 {
 
 .flex-center {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
 }
 .txt_bloc5 {
     position: relative;
     background: #333333bd;
-    padding: 15px 50px;
+    padding: 15px 30px;
     color: #F3976C!important;
     border: #F3976C solid 1px;
 
