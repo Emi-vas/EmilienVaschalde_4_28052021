@@ -1053,7 +1053,15 @@ h4 {
     justify-content: space-around;
 }
 
-
+.flex-center {
+    display: flex;
+    justify-content: space-around;
+}
 .txt_bloc5 {
-    color: #f8f0f0;
+    position: relative;
+    background: #333333bd;
+    padding: 15px 50px;
+    color: #F3976C!important;
+    border: #F3976C solid 1px;
+
 }
