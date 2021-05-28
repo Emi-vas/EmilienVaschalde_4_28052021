@@ -753,7 +753,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(70, 62, 40, 0.76);
     padding: 40px 40px 40px 40px;
 }
 
@@ -1051,4 +1051,9 @@ h4 {
 .footer-center {
     display: flex;
     justify-content: space-around;
+}
+
+
+.txt_bloc5 {
+    color: #f8f0f0;
 }
