@@ -1095,7 +1095,11 @@ h4 {
     padding-bottom: 20px;
 }
 
-
+.text-main {
+    font-size: 1.60em;
+    max-width: 650px; /*ca prend pas tout l'espace mais quand l'écran est plus petit oui*/
+    text-align: center;
+}
 
 .map {
     float: right;
@@ -1109,5 +1113,13 @@ h4 {
     .contact_main {
         font-size: 2em;
         padding-bottom: 20px;
+    }
+
+    .text-main {
+        font-size: 1.4em;
+    }
+
+    .txt_bloc5 {
+        max-width: 90%; /*zone de texte dans les images (titre et fin de page)*/
     }
 }
