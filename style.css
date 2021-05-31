@@ -1076,3 +1076,11 @@ h4 {
 .footer_logo {
     font-size: 2em;
 }
+
+.footer_adresse {
+    margin-top: 30px;
+}
+
+.footer_font--main {
+    font-size: 1.3em;
+}
