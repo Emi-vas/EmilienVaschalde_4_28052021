@@ -1096,6 +1096,11 @@ h4 {
 }
 
 
+
+.map {
+    float: right;
+}
+
 @media screen and (max-device-width: 720px) {
     .contact_texte {
         font-size: 1em;
