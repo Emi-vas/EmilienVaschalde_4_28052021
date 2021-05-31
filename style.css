@@ -1073,14 +1073,36 @@ h4 {
     transition: all 0.2s;
 }
 
-.footer_logo {
-    font-size: 2em;
-}
-
 .footer_adresse {
     margin-top: 30px;
 }
 
 .footer_font--main {
     font-size: 1.3em;
+    margin-bottom: 20px;
+}
+
+.font-white {
+    color: white !important;
+}
+
+.contact_texte {
+    font-size: 1.3em;
+}
+
+.contact_main {
+    font-size: 3em;
+    padding-bottom: 20px;
+}
+
+
+@media screen and (max-device-width: 720px) {
+    .contact_texte {
+        font-size: 1em;
+    }
+    
+    .contact_main {
+        font-size: 2em;
+        padding-bottom: 20px;
+    }
 }
